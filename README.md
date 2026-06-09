@@ -105,7 +105,7 @@ streamlit run app.py
 
 | Hero & Dashboard | Prediction Results |
 |:---:|:---:|
-| <img src="screenshots/image%201.png" width="400" alt="Hero Section and KPIs"> | <img src="screenshots/image%202.png" width="400" alt="Prediction Results Grid"> |
+| <img src="screenshots/image%202.png" width="400" alt="Hero Section and KPIs"> | <img src="screenshots/image%201.png" width="400" alt="Prediction Results Grid"> |
 
 ---
 
