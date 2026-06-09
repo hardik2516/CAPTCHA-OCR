@@ -1,5 +1,7 @@
 # CAPTCHA OCR — ResNet-18 Trained from Scratch
 
+**Live Demo:** [https://captcha-ocr-dnfbqbh4vwbr3fimr6vzda.streamlit.app/](https://captcha-ocr-dnfbqbh4vwbr3fimr6vzda.streamlit.app/)
+
 A production-grade CAPTCHA recognition system powered by a ResNet-18 architecture trained entirely from scratch — no pretrained weights, no transfer learning, no external data.
 
 ---
@@ -103,9 +105,7 @@ streamlit run app.py
 
 | Hero & Dashboard | Prediction Results |
 |:---:|:---:|
-| <img src="screenshots/hero.png" width="400" alt="Hero Section and KPIs"> | <img src="screenshots/results.png" width="400" alt="Prediction Results Grid"> |
-
-*(Note: Please save the images you just uploaded into the `screenshots/` folder as `hero.png` and `results.png` respectively)*
+| <img src="screenshots/image%201.png" width="400" alt="Hero Section and KPIs"> | <img src="screenshots/image%202.png" width="400" alt="Prediction Results Grid"> |
 
 ---
 
